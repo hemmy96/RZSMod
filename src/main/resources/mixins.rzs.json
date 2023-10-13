@@ -1,0 +1,18 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7",
+  "package": "com.menitimu.rzs.mixin",
+  "refmap": "mixins.rzs.refmap.json",
+  "injectors": {
+    "maxShiftBy": 5
+  },
+  "client": [
+    "GuiIngameMixin",
+    "LayerCustomHeadMixin",
+    "ModelBipedMixin",
+    "NetHandlerPlayClientMixin",
+    "RenderLivingEntityMixin",
+    "RenderMixin"
+  ],
+  "verbose": true
+}

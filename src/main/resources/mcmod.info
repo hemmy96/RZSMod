@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${id}",
+    "name": "${name}",
+    "description": "Q.Wat's RZS? A.RZS(Resource Zone System) is a versatile and advanced utility tool available in a world where future technology has evolved. This tool is designed to efficiently handle a wide range of tasks and finds applications in various domains.\n1.Here are some of the key features and uses of RZS:\nLanguage Processing and Communication:\nLanguage Translation: RZS can translate text and speech in real-time between various languages.\nCommunication Assistance: It supports communication for individuals with hearing impairments and language disabilities.\n2.Education:\nKnowledge Provision: It provides instant knowledge on a wide range of topics, supporting education.\nCustomized Learning: RZS generates tailored learning materials for individual learners, providing an optimal learning experience.\n3.Healthcare:\nDisease Diagnosis: It diagnoses illnesses based on bodily symptoms, aiding in early treatment.\nMedical Consultation: Real-time communication with medical professionals for health advice.\n5.Environment and Energy:\nWeather Forecasting: Analyzing weather data, RZS provides accurate weather forecasts.\nEnergy Optimization: Optimizes energy usage to minimize environmental impact.\n5.Entertainment:\nVirtual Reality Experiences: RZS creates virtual worlds, offering immersive experiences to users.\nCreative Support: Assists in art and music production, enabling new forms of expression.\n6.Security:\nCybersecurity: Detects online threats and protects data and privacy.\nCrime Prediction: Predicts criminal activities, aiding in crime prevention.\n7.Transportation and Mobility:\nAutonomous Driving Assistance: Controls autonomous vehicles and provides real-time traffic information, ensuring safe travel.\nTraffic Congestion Management: Optimizes traffic flow to reduce congestion.\nRZS utilizes advanced artificial intelligence and sensor technologies to efficiently solve various problems and enhance people's daily lives in a future society.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Mentuyu(100% from organic resource)"
+    ],
+    "credits": "\nOneConfig by Polyfrost\nOneConfigExampleMod by Polyfrost\nChatComponentBuilder by Semx11",
+    "logoFile": "assets/rzs/textures/CoolIcon.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
